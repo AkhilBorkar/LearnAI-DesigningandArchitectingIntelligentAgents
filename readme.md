@@ -68,6 +68,20 @@ Please note: The schedule for this agenda is subject to change pending class act
 -   *3:30-4:45: [6.1: Capstone Project (Discovery, Envisioning, ADS, POC, Implementation, Handoff and Follow-up) ](./06-final_case/readme.md)*
 - 4:45-5: Q&A and Feedback
 
+## Certifications
+
+The LearnAI team had intense participation in the creation of the following new Microsoft certifications and its required tests:
+
++ [Azure Data Engineer​](https://www.microsoft.com/en-us/learning/azure-data-engineer.aspx)
+  + DP-200: Implementing an Azure Data Solution
+  + DP-201: Designing an Azure Data Solutions​
+
++ [Azure AI Engineer​](https://www.microsoft.com/en-us/learning/azure-ai-engineer.aspx)
+  + AI-100: Designing and Implementing an Azure AI Solution
+
++ [Azure Data Scientist](https://www.microsoft.com/en-us/learning/azure-data-scientist.aspx)
+  + DP-100: Designing and Implementing a Data Science Solution on Azure​
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
